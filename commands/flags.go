@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tnn-gruntwork-io/go-commons/logging"
-	"github.com/tnn-gruntwork-io/health-checker/options"
+	"github.com/tnn-tnn-gruntwork-io/go-commons/logging"
+	"github.com/tnn-tnn-gruntwork-io/health-checker/options"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

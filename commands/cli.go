@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/tnn-gruntwork-io/go-commons/errors"
-	"github.com/tnn-gruntwork-io/health-checker/server"
+	"github.com/tnn-tnn-gruntwork-io/go-commons/errors"
+	"github.com/tnn-tnn-gruntwork-io/health-checker/server"
 	"github.com/urfave/cli"
 )
 
@@ -32,7 +32,7 @@ func CreateCli(version string) *cli.App {
 
 	app.Name = "health-checker"
 	app.HelpName = app.Name
-	app.Author = "Gruntwork, Inc. <www.gruntwork.io> | https://github.com/tnn-gruntwork-io/health-checker"
+	app.Author = "Gruntwork, Inc. <www.gruntwork.io> | https://github.com/tnn-tnn-gruntwork-io/health-checker"
 	app.Version = version
 	app.Usage = "A simple HTTP server that will return 200 OK if the configured checks are all successful."
 	app.Commands = nil

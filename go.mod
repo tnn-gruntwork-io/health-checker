@@ -1,10 +1,10 @@
-module github.com/tnn-gruntwork-io/health-check
+module github.com/tnn-tnn-gruntwork-io/health-check
 
 go 1.14
 
 require (
-	github.com/tnn-gruntwork-io/go-commons v0.10.0
-	github.com/tnn-gruntwork-io/health-checker v0.0.5
+	github.com/tnn-tnn-gruntwork-io/go-commons v0.10.0
+	github.com/tnn-tnn-gruntwork-io/health-checker v0.0.5
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.6.1
 	github.com/urfave/cli v1.22.4
