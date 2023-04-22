@@ -2,8 +2,8 @@ package commands
 
 import (
 	"flag"
-	"github.com/gruntwork-io/health-checker/options"
-	"github.com/gruntwork-io/health-checker/test"
+	"github.com/tnn-gruntwork-io/health-checker/options"
+	"github.com/tnn-gruntwork-io/health-checker/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/urfave/cli"
 	"strings"

@@ -10,9 +10,9 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/logging"
-	"github.com/gruntwork-io/health-checker/options"
-	"github.com/gruntwork-io/health-checker/test"
+	"github.com/tnn-gruntwork-io/go-commons/logging"
+	"github.com/tnn-gruntwork-io/health-checker/options"
+	"github.com/tnn-gruntwork-io/health-checker/test"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )
