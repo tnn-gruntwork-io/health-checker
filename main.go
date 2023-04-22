@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gruntwork-io/go-commons/entrypoint"
-	"github.com/gruntwork-io/health-checker/commands"
+	"github.com/tnn-gruntwork-io/go-commons/entrypoint"
+	"github.com/tnn-gruntwork-io/health-checker/commands"
 )
 
 // This variable is set at build time using -ldflags parameters. For example, we typically set this flag in circle.yml

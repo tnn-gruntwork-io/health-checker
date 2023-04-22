@@ -41,7 +41,7 @@ case that it fails.
 
 ## Installation
 
-Just download the latest release for your OS on the [Releases Page](https://github.com/gruntwork-io/health-checker/releases).
+Just download the latest release for your OS on the [Releases Page](https://github.com/tnn-gruntwork-io/health-checker/releases).
 
 ## Usage
 

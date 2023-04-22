@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gruntwork-io/go-commons/errors"
-	"github.com/gruntwork-io/health-checker/options"
+	"github.com/tnn-gruntwork-io/go-commons/errors"
+	"github.com/tnn-gruntwork-io/health-checker/options"
 	"golang.org/x/sync/singleflight"
 )
 
